@@ -5,7 +5,7 @@
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-25.05";
     cosmo = {
-      url = "github:s0ph0s-dog/cosmopolitan/s0ph0s-patches";
+      url = "github:half-duplex/cosmopolitan/s0ph0s-patches";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };

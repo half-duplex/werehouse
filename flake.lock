@@ -7,15 +7,15 @@
         ]
       },
       "locked": {
-        "lastModified": 1751079941,
-        "narHash": "sha256-uYNYPR28pLny7dSpyKvLD5XjoinhnND5i/mMj6CsUCY=",
-        "owner": "s0ph0s-dog",
+        "lastModified": 1754238530,
+        "narHash": "sha256-cXlN1bFpdMBSJ9G+Un5vdTEsp/kYuRGcWdYmyhyNT9Y=",
+        "owner": "half-duplex",
         "repo": "cosmopolitan",
-        "rev": "cf7daaa523f4fff43aa0bc9a5dc55d36e3cbbede",
+        "rev": "843318f0c94986c94e5ae41344573f804e9250d7",
         "type": "github"
       },
       "original": {
-        "owner": "s0ph0s-dog",
+        "owner": "half-duplex",
         "ref": "s0ph0s-patches",
         "repo": "cosmopolitan",
         "type": "github"
