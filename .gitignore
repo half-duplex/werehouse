@@ -18,3 +18,4 @@ images/*
 /cache
 .DS_Store
 /previews
+/result
